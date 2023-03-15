@@ -1,0 +1,6 @@
+yagmail
+pandas
+requests
+python-dotenv
+openpyxl
+
